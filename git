@@ -1,9 +1,0 @@
-print ('Hello world.')
-#github wrote that
-
-print ('Heyyyyy github')
-#gitpod wrote that after it transferred
-#h
-hello.py
-name=input('enter name')
-print (name)
